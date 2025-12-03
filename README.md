@@ -1,2 +1,1 @@
-# super-calcu
-La Calculadora resuelve problemas de Física en forma Interactiva con solo poner los datos
+Esta Calculadora de Física resuelve los problemas de manera simplificada, con solo poner los datos se obtienen los resutados esperados, ahorrando tiempo en su resolución o también para comprobar resultados obtenidos por otros métodos. 
